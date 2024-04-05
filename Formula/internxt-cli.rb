@@ -1,3 +1,5 @@
+require "language/node"
+
 class InternxtCli < Formula
     desc "A CLI tool to interact with yout Internxt encrypted files"
     homepage "https://github.com/internxt/cli"
