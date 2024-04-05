@@ -1,4 +1,4 @@
-class InternxtCLI < Formula
+class InternxtCli < Formula
     desc "A CLI tool to interact with yout Internxt encrypted files"
     homepage "https://github.com/internxt/cli"
     url "https://registry.npmjs.org/@internxt/cli/-/cli-0.1.5.tgz"
